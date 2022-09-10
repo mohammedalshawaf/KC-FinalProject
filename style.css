@@ -1,0 +1,45 @@
+body {
+     margin:0 ;
+    background-color: antiquewhite;
+}
+.card {
+
+background-color: tan;
+width: 25%;
+padding: 12px;
+margin: 8px;
+color: black;
+height: 200px;
+font-style: inherit;
+}
+
+.card img{
+
+    width: 100%;
+}
+
+
+
+.containar{
+    
+    
+   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
